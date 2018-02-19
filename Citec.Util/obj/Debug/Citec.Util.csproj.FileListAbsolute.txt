@@ -1,0 +1,10 @@
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Util\bin\Debug\Citec.Util.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Util\bin\Debug\Citec.Util.pdb
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Util\obj\Debug\Citec.Util.csprojResolveAssemblyReference.cache
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Util\obj\Debug\Citec.Util.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Util\obj\Debug\Citec.Util.pdb
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Util\bin\Debug\Citec.Util.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Util\bin\Debug\Citec.Util.pdb
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Util\obj\Debug\Citec.Util.csprojResolveAssemblyReference.cache
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Util\obj\Debug\Citec.Util.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Util\obj\Debug\Citec.Util.pdb

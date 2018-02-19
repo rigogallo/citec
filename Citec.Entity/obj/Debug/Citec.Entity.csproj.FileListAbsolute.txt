@@ -1,0 +1,10 @@
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Entity\bin\Debug\Citec.Entity.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Entity\bin\Debug\Citec.Entity.pdb
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Entity\obj\Debug\Citec.Entity.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Entity\obj\Debug\Citec.Entity.pdb
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec.Entity\obj\Debug\Citec.Entity.csprojResolveAssemblyReference.cache
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Entity\bin\Debug\Citec.Entity.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Entity\bin\Debug\Citec.Entity.pdb
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Entity\obj\Debug\Citec.Entity.csprojResolveAssemblyReference.cache
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Entity\obj\Debug\Citec.Entity.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec.Entity\obj\Debug\Citec.Entity.pdb

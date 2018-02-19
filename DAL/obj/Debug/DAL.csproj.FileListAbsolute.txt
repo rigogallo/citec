@@ -1,0 +1,24 @@
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\DAL.dll.config
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\DAL.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\DAL.pdb
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\Citec.Entity.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\EntityFramework.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\Citec.Entity.pdb
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\EntityFramework.xml
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\obj\Debug\DAL.dll
+C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\DAL\obj\Debug\DAL.pdb
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\obj\Debug\DAL.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\obj\Debug\DAL.pdb
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\DAL.dll.config
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\DAL.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\DAL.pdb
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\Citec.Entity.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\EntityFramework.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\Citec.Entity.pdb
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\EntityFramework.xml
+C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\DAL\bin\Debug\EntityFramework.SqlServer.xml
