@@ -17,17 +17,13 @@ namespace Citec.Catalogos.Factura
     public partial class Factura : Form
     {
         string APP_NAME = ConfigurationManager.AppSettings["NombreAplicacion"];
-		double PorcentajeIVA = Convert.ToDouble(ConfigurationManager.AppSettings["IVA"]);
-		IList<Entity.ProductoViewModel> productos;
+        IList<Entity.ProductoViewModel> productos;
         IList<Entity.ProductoViewModel> productosEnFactura;
         Entity.ProductoViewModel productoSeleccionado;
         Util.ValidarDato validaDatos = new Util.ValidarDato();
         Util.MetodosGenerales Controles = new Util.MetodosGenerales();
 
-		public string NombreCliente { get; set; }
-		public int IdCliente { get; set; }
-
-		public Factura()
+        public Factura()
         {
             InitializeComponent();
         }
@@ -68,7 +64,7 @@ namespace Citec.Catalogos.Factura
                         }
                         if (service.CrearFactura(factura))
                         {
-                            MessageBox.Show("Se ingreso la factura número: " + factura.Num_Factura, APP_NAME, MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            MessageBox.Show("Factura creada!", APP_NAME, MessageBoxButtons.OK, MessageBoxIcon.Information);
                             Controles.LimpiarControles(this.Controls);
                             this.dg_orden.Rows.Clear();
                             ObtenerProductos();
@@ -86,10 +82,6 @@ namespace Citec.Catalogos.Factura
                     }
                 }
             }
-			else
-			{
-				MessageBox.Show(string.Join(" \n", validaDatos.MensajesDeError), APP_NAME, MessageBoxButtons.OK, MessageBoxIcon.Error);
-			}
 
             
         }
@@ -162,7 +154,7 @@ namespace Citec.Catalogos.Factura
         private void Factura_Load(object sender, EventArgs e)
         {
             ObtenerProductos();
-            
+            DecorarGrid();
         }
 
         private void ObtenerProductos()
@@ -170,18 +162,7 @@ namespace Citec.Catalogos.Factura
             using (var service = new Service.ProductoService())
             {
                 productos = service.ObtenerTodos();
-
-				if (productos.Count > 0)
-				{
-					dg_productos.CargarGrid(productos);
-					DecorarGrid();
-				}
-				else
-				{
-					MessageBox.Show("No hay ningun producto en Inventario, por favor ingrese alguno",
-							APP_NAME, MessageBoxButtons.OK, MessageBoxIcon.Information);
-				}
-                
+                dg_productos.CargarGrid(productos);
             }
         }
 
@@ -306,7 +287,7 @@ namespace Citec.Catalogos.Factura
             double IVA = 0;
             if (!String.IsNullOrEmpty(this.tb_total.Text))
             {
-                IVA = Convert.ToDouble(this.tb_total.Text) * PorcentajeIVA;
+                IVA = Convert.ToDouble(this.tb_total.Text) * 0.15;
                 this.tb_IVA.Text = IVA.ToString();
                 this.tb_totalgeneral.Text = Convert.ToString(Convert.ToDouble(this.tb_total.Text) + IVA);
             }
@@ -334,10 +315,5 @@ namespace Citec.Catalogos.Factura
             ObtenerProductos();
             DecorarGrid();
         }
-
-		private void Button1_Click(object sender, EventArgs e)
-		{
-
-		}
-	}
+    }
 }

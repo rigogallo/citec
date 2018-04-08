@@ -40,19 +40,33 @@ namespace DAL.Services
         public Entity.FacturaViewModel FiltrarPorNumero(int numeroFactura)
         {
             var factura = context.Facturas.Where(x => x.Num_Factura.Equals(numeroFactura))
-                .Select( x => new Entity.FacturaViewModel {
-                    anulada = x.anulada,
-                    Credito = x.Credito
-                    //TODO: Agregar resto
-                }).FirstOrDefault();               
-            return factura;
+               .Select(x => new Entity.
+               {
+                   ID = x.Id_Producto,
+                   Marca = x.Marca,
+                   Modelo = x.Modelo,
+                   CostoImpo = x.CostoImpo,
+                   Stock = x.Stock,
+                   Minimo = x.Minimo,
+                   Descripcion = x.Descripcion,
+                   Linea = x.Linea,
+                   Precio1 = x.Precio1,
+                   Precio2 = x.Precio2,
+                   Precio3 = x.Precio3,
+                   Precio4 = x.Precio4,
+                   Comision1 = x.Comision1,
+                   Comision2 = x.Comision2,
+                   Comision3 = x.Comision3,
+                   Comision4 = x.Comision4
+               }).ToList();
+            return listaClientes;
         }
 
         public bool CrearFactura(Models.Factura factura)
         {
             try
             {
-                context.Entry(factura).State = EntityState.Added;			
+                context.Entry(factura).State = EntityState.Added;
                 foreach (var producto in factura.FacturaDetalle)
                 {
                     var productoEncontrado = context.Productos.Find(producto.Id_Producto);

@@ -55,12 +55,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Catalogos\Clientes\BusquedaClientes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Catalogos\Clientes\BusquedaClientes.Designer.cs">
-      <DependentUpon>BusquedaClientes.cs</DependentUpon>
-    </Compile>
     <Compile Include="Catalogos\Clientes\Clientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -129,9 +123,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Catalogos\Clientes\BusquedaClientes.resx">
-      <DependentUpon>BusquedaClientes.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Catalogos\Clientes\Clientes.resx">
       <DependentUpon>Clientes.cs</DependentUpon>
     </EmbeddedResource>
@@ -186,9 +177,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config">
-      <SubType>Designer</SubType>
-    </None>
+    <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Citec.Entity\Citec.Entity.csproj">

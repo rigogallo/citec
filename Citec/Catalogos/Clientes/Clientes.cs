@@ -31,8 +31,7 @@ namespace Citec
         private void Form1_Load(object sender, EventArgs e)
         {            
             using (var service = new Service.ClienteService())
-            {
-                var x = "";
+            {                
                 clientes = service.ObtenerTodos();
                 dg_clientes.CargarGrid(clientes);
                 DecorarGrid();                                    

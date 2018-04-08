@@ -36,10 +36,5 @@ namespace Citec.Catalogos.Factura
 
             }
         }
-
-		private void BuscarFactura_Load(object sender, EventArgs e)
-		{
-
-		}
-	}
+    }
 }

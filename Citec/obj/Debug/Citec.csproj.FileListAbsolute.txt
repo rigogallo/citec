@@ -25,34 +25,3 @@ C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec\obj\Debug\Citec.exe
 C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec\obj\Debug\Citec.pdb
 C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec\obj\Debug\Citec.Catalogos.Factura.FacturasPendientes.resources
 C:\Users\vaio\Documents\Proyectos Desarrollo\Citec\Citec\obj\Debug\Citec.Catalogos.Factura.AnularFacturas.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\Citec.exe.config
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\Citec.exe
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\Citec.pdb
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\Citec.Entity.dll
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\Citec.Util.dll
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\DAL.dll
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\EntityFramework.dll
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\Citec.Entity.pdb
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\Citec.Util.pdb
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\DAL.pdb
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\DAL.dll.config
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\EntityFramework.xml
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.csprojResolveAssemblyReference.cache
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Clientes.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Factura.AnularFacturas.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Factura.BuscarFactura.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Factura.Factura.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Factura.FacturasPendientes.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Factura.ImprimirFactura.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Productos.InventarioProductos.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Productos.Productos.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Regalias.Regalias.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Usuarios.Usuarios.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Principal.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Properties.Resources.resources
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.csproj.GenerateResource.Cache
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.exe
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.pdb
-C:\Users\rigog\Desktop\Documentos\Sistemas\Citec\Citec\obj\Debug\Citec.Catalogos.Clientes.BusquedaClientes.resources
